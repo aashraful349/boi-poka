@@ -7,6 +7,7 @@ const Navbar = () => {
     <NavLink className="m-2" to="/">Home</NavLink>
     {/* <li className='m-2'>About</li> */}
     <NavLink className="m-2" to='/about'>About</NavLink>
+    <NavLink className="m-2" to='/readList'>Read List</NavLink>
     </>;
     return (
         <div className="navbar">
