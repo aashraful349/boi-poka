@@ -22,7 +22,6 @@ const Book = ({ singleBook }) => {
                 <div className="card-body">
                     <h2 className="card-title">
                         {bookName}
-
                     </h2>
                     <p>{`Author: ${author}`}</p>
                     <div className="border-b-1 border-dashed border-gray-300"></div>
